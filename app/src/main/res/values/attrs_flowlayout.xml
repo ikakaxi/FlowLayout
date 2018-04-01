@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="FlowLayout">
+        <attr name="rowSpacing" format="dimension"/>
+        <attr name="columnSpacing" format="dimension"/>
+    </declare-styleable>
+</resources>
